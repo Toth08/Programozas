@@ -1,0 +1,35 @@
+body{
+  background-color: red;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h2{
+  color:yellow;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+p{
+  color: yellow;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h5{
+  color: yellow;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.nav-link {
+  color: red !important;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+a{
+  color: yellow;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.nav-link{
+  font-size: 30px !important;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
