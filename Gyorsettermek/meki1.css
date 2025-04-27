@@ -1,0 +1,16 @@
+div{
+  background-color: red;
+}
+
+body{
+  background-color: red;
+}
+
+h2, p, h5{
+  color: yellow;
+}
+
+a{
+  color: yellow;
+  font-size: 20px;
+}

@@ -6,6 +6,10 @@ body{
     background-color: red;
 }
 
-table{
+thead{
     background-color: orangered;
+}
+
+table{
+    border: 1px solid black;
 }

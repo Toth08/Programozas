@@ -2,6 +2,17 @@ div{
     background-color: #e31e2f;
 }
 
-body{
-    background-color: #e31e2f;
+.card{
+    border: 10px solid black !important;
+    text-align: center;
+    font-size: larger;
+
+}
+
+.cimek{
+    text-decoration: underline;
+}
+
+.terkep{
+    height: 600px;
 }
